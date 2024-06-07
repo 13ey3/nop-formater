@@ -1,0 +1,20 @@
+{
+    "name": "mpu/nop-formater",
+    "description": "library sederhana untuk format NOP",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mpu\\NopFormater\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "asdf.ramdani",
+            "email": "saepulloh.ramdani2@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4",
+    }
+}
